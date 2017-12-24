@@ -2,7 +2,7 @@
 window.addEventListener('load', function(){
     var INSTANCES = [
         "mstdn.maud.io",
-        "mstdn.hene9.help",
+        "mstdn.nere9.help",
         "social.mikutter.hachune.net",
     ];
     var LOCALSTORAGE_KEY = document.getElementById('mstdn_picker');
