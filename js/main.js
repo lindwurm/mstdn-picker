@@ -1,11 +1,9 @@
 
 window.addEventListener('load', function(){
     var INSTANCES = [
-        "mstdn.guru",
-        "mstdn.jp",
-        "mstdn.io",
-        "mstdn.social",
-        "pawoo.net",
+        "mstdn.maud.io",
+        "mstdn.hene9.help",
+        "social.mikutter.hachune.net",
     ];
     var LOCALSTORAGE_KEY = document.getElementById('mstdn_picker');
     var WRAPPER = document.getElementById('mstdn_picker_wrapper');
